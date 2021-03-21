@@ -2,14 +2,15 @@
 
 ### Hi 👋
 ```
-  new Vue({
+  export default {
+    name: 'Perfil',
     data(){
       return{
         name: 'Edson Dos Santos Bandola',  
         skills: ['PHP', 'JS (VUE.js) (ELECTRON) -> NUXT.js, NODE JS'],
       }
     }
-  })
+  }
 ```
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=edson2001)
