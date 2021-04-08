@@ -1,7 +1,7 @@
 <img src="https://cdn.wallpapersafari.com/59/73/Oyd3C1.gif">
 
 ### Hi 👋
-```
+```Vue.js
   export default {
     name: 'Perfil',
     data(){
