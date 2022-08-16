@@ -2,14 +2,15 @@
 
 ### Hi 👋
 ```Go
-  export default {
-    name: 'Perfil',
-    data(){
-      return{
-        name: 'Edson Dos Santos Bandola',  
-        skills: ['PHP', 'JS (VUE.js) (ELECTRON) -> NUXT.js, NODE JS'],
-      }
-    }
+  package main
+
+  import "fmt"
+
+  func main() {
+
+    skills := []string{"Go", "JS(Vue.js, Node.js, Electron)", "PHP", "DOCKER", "MYSQL"}
+	  fmt.Println(skills)
+    
   }
 ```
 
